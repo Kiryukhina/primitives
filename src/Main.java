@@ -4,8 +4,8 @@ public class Main {
         int amount = 17_543;
         int bonus = 20;
         int mili = amount / bonus;
-        int x = mili;
-        System.out.println(x);
+        int quantity = mili;
+        System.out.println("Количество начисленных миль: " + quantity);
 
 
     }
